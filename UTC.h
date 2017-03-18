@@ -2,8 +2,6 @@
 #include <time.h>
 #include <ctime>
 
-using namespace std;
-
 int main ()
 {
 	time_t rawtime;
@@ -13,7 +11,6 @@ int main ()
 
 	ptm = gmtime(&rawtime);
 
-	cout << "The UTC time is " << ptm << endl;
-	return 0;
+	std::cout << "The UTC time is " << ptm << std::endl;
 }
 
