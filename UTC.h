@@ -1,16 +1,18 @@
+//4. UTC time
+//Daniel Truong
+//March 18 2017
+
 #include <iostream>
 #include <time.h>
-#include <ctime>
+#ifndef UTC
+#define UTC
 
-int main ()
+void UTC()
 {
-	time_t rawtime;
-	struct tm * ptm;
-
-	time(&rawtime);
-
-	ptm = gmtime(&rawtime);
-
-	std::cout << "The UTC time is " << ptm << std::endl;
+        time_t t;
+        struct tm* tmp;
+        time (&t);
+        tmp = gmtime(&t);
+        std::cout << "The UTC time is: " << tmp << std::endl;
 }
-
+#endif

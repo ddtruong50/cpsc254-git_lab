@@ -1,21 +1,3 @@
-apt-getinstall sudo
-apt -getinstall sudo
-apt-get install sudo
-nano /etc/sudoers
-exit
-apt-get install sudo
-add daniel sudo
-adduser daniel sudo
-nano /etc/sudoers
-exit
-nano demo.c
-nano /demo.c
-cc /demo.c -o demo
-nano /demo.c
-cc demo.c -o demo
-nano /demo.c
-cc /demo.c -o demo
-id -G
 id -Z
 id -u
 id -u daniel
@@ -402,3 +384,117 @@ man nano
 ./mediums.py
 ./mediums.py
 mv mediums.py sounds.py
+apt install git
+git init
+cd /home/daniel/Week9
+cd /home/daniel/Week 9
+cd/ home/daniel/.git
+cd /home/daniel/.git
+touch main.cpp
+nano main.cpp
+git add <main.cpp>
+git add <main.cpp>
+git status
+git add <main.cpp>
+git add <main>
+nano main.cpp
+git add <main>
+git add <main.cpp>
+git add main.cpp
+cd
+git add main.cpp
+git commit
+git init
+git add main.cpp
+cd /home/daniel/.git
+cd
+nano main.cpp
+git add main.cpp
+git status
+git commit
+git status
+git commit
+git commit
+git status
+git commit
+git add
+git commit
+git add .bash_history
+git add .bashrc
+git add .profile
+git add .selected_editor
+git commit
+git commit
+git status
+nano main.cpp
+git status
+git log
+g++ main.cpp
+nano main.cpp
+g++ main.cpp
+git branch
+git branch file_based
+git branch
+git checkout file_based
+git branch
+nano main.cpp
+touch contents.txt
+nano contents.txt
+g++ main.cpp
+nano main.cpp
+g++ main.cpp
+nano main.cpp
+g++ main.cpp
+nano main.cpp
+g++ main.cpp
+nano main.cpp
+g++ main.cpp
+./main.cpp
+git commit
+git add contents.txt
+git commit -a -m "hello world read from contents text file"
+git branch master
+git checkout master
+git merge file_based
+ls
+touch UTC.cpp
+nano UTC.cpp
+./UTC.cpp
+chmod 755 a.out
+./UTC.cpp
+chmod 755 UTC.cpp
+./UTC.cpp
+nano UTC.cpp
+nano UTC.cpp
+./UTC.cpp
+nano UTC.cpp
+./UTC.cpp
+nano UTC.cpp
+./UTC.cpp
+nano UTC.cpp
+git clone time_t UTCtime;
+        struct tm tm;
+        struct tm * tmp;
+        t = timegm(&tm);
+        time (&UTCtime);
+        return 0;
+}
+double UTC()
+{         struct tm;         {                 tm_;         time_t UTCtime; 3
+git clone git@github.com:KrumphauChicken/CPSC254-git_lab
+git clone https://git@github.com:KrumphauChickenCPSC254-git_lab
+git clone https://github.com/KrumphauChickenCPSC254-git_lab
+git clone git@github.com:KrumphauChicken/cpsc254-git_lab.git
+git clone git@github.com:KrumphauChicken/cpsc254-git_lab.git
+nano UTC.cpp
+nano UTC.cpp
+nano UTC.cpp
+g++ UTC.cpp
+nano UTC.cpp
+nano UTC.cpp
+nano UTC.cpp
+nano UTC.cpp
+nano UTC.cpp
+nano UTC.cpp
+nano UTC.cpp
+nano UTC.cpp
